@@ -1,5 +1,5 @@
 
-# Simple whatsapp scrap
+# Simple scrap dni (peru)
 
 This is the simple way. You must install one by one
 
@@ -18,6 +18,7 @@ install selenium and requests pip packages
 
     pip install selenium
     pip install requests
+    pip install flask
 
 # [For Developer] : Easy get started
 
@@ -30,5 +31,12 @@ Execute the python app on the terminal
     python index.py 
 
 
-![project working](./docs/2024-05-23_13-46.png)
+    http://127.0.0.1:5000/get_profile_picture?dni=45269187
+
+
+
+
+
+
+![project working](./docs/Screenshot_20240718_223009.png)
 
