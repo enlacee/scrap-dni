@@ -31,7 +31,7 @@ Execute the python app on the terminal
     python index.py 
 
 
-    http://127.0.0.1:5000/get_profile_picture?dni=45269187
+    http://127.0.0.1:5000/get_profile_picture?dni=xxxxxxxx
 
 
 
