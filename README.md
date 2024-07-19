@@ -37,6 +37,6 @@ Execute the python app on the terminal
 
 
 
-
+### Preview ()
 ![project working](./docs/Screenshot_20240718_223009.png)
 
